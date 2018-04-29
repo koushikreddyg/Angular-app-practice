@@ -1,0 +1,8 @@
+{
+  "/postsData/*": {
+    "target": "http://localhost:4600",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
